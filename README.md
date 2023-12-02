@@ -1,15 +1,15 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3E77B6&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Vinícius+Raniery;I'm+17+years+old;I'm+from+Brazil;I'm+a+systems+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-
-
-## <img height="35" alt="about" src="https://cdn.discordapp.com/attachments/1074182074933715047/1074819323165671485/anuncio.png"> A Little About Myself
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3E77B6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Vinícius+Raniery;I'm+17+years+old;I'm+from+Brazil;I'm+a+systems+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 
-![Caio Farias's GitHub stats](https://github-readme-stats.vercel.app/api?username=VncsRaniery&show_icons=true&theme=dark&hide_border=true&count_private=true&card_width=494px)
+## A Little About Myself
+
+
+
+![Vinicius Raniery's GitHub stats](https://github-readme-stats.vercel.app/api?username=VncsRaniery&show_icons=true&theme=dark&hide_border=true&count_private=true&card_width=494px)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VncsRaniery&theme=dark&hide_border=true&border_radius=5)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VncsRaniery&layout=compact&show_icons=true&theme=dark&hide_border=true&card_width=494px)
 
@@ -37,4 +37,4 @@
 </div>
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3E77B6&height=120&section=footer"/>
