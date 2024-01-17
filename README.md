@@ -5,7 +5,6 @@
 </h1>
 
 <div align="center">
-   <!-- <img height="350em" src="./.github/assets/cover_.png"/> -->
    <img height="380em" src="./_5449ed31-e3dd-4071-9ed2-ad11df5c8743.png"/>
 </div>
 
@@ -30,7 +29,8 @@ export default {
     Graduado pelo IF Goiano, construí uma base sólida para minha jornada no mundo da tecnologia.
 
     🛠️ Minha Jornada Profissional:
-    Ao longo dos anos, tenho trilhado uma carreira desafiadora como desenvolvedor front-end, contribuindo para diversos projetos que demandaram soluções inovadoras. Minha expertise abrange habilidades sólidas em HTML, CSS, JavaScript, e frameworks como React. 
+    Ao longo dos anos, tenho trilhado uma carreira desafiadora como desenvolvedor front-end, contribuindo para diversos projetos
+    que demandaram soluções inovadoras. Minha expertise abrange habilidades sólidas em HTML, CSS, JavaScript, e frameworks como React. 
     Além disso, tenho conhecimento em bancos de dados e integração de APIs, proporcionando experiências interativas e eficientes.
 
     🎓 Formação Acadêmica:
@@ -38,8 +38,9 @@ export default {
     A formação sólida proporcionada pela instituição contribuiu significativamente para o meu crescimento como desenvolvedor.
 
     🚀 Em Busca de Inovação:
-    Atualmente, estou imerso em desafios mais avançados, buscando aprimorar minhas habilidades e explorando o fascinante mundo da Inteligência Artificial. 
-    Através de cursos dedicados, estou adquirindo conhecimento para integrar IA em projetos futuros, elevando ainda mais a qualidade das soluções que desenvolvo.`,
+    Atualmente, estou imerso em desafios mais avançados, buscando aprimorar minhas habilidades e explorando o fascinante mundo da Inteligência
+    Artificial. Através de cursos dedicados, estou adquirindo conhecimento para integrar IA em projetos futuros, elevando ainda mais
+    a qualidade das soluções que desenvolvo.`,
   },
   skills: {
     languages: [
@@ -117,7 +118,8 @@ export default {
         <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
         <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
         <img align="center" alt="Next.Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-        <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"><img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+        <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+        <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     </div>
 
 <br><br>
@@ -130,13 +132,9 @@ export default {
 
 ![Vinicius Raniery's GitHub stats](https://github-readme-stats.vercel.app/api?username=VncsRaniery&show_icons=true&theme=dark&hide_border=true&count_private=true&card_width=494px)
 
-<h3>GitHub Streak</h3>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VncsRaniery&theme=dark&hide_border=true&border_radius=5)
-
 <h3>Top Linguagens</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VncsRaniery&layout=compact&show_icons=true&theme=dark&hide_border=true&card_width=494px)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VncsRaniery&layout=compact&show_icons=true&theme=dark&hide_border=true&count_private=true&card_width=494px)
 
 </div>
 
