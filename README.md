@@ -26,16 +26,20 @@ export default {
   portfolio: 'Ainda em andamento',
   contato: '(63) 99132-6323',
   description: {
-    myProfile: `Olá, sou Vinícius Raniery, um entusiasta por programação web e entusiasta de experiência do usuário. Graduado pelo IF Goiano, construí uma base sólida para minha jornada no mundo da tecnologia.
+    myProfile: `Olá, sou Vinícius Raniery, um entusiasta por programação web e entusiasta de experiência do usuário. 
+    Graduado pelo IF Goiano, construí uma base sólida para minha jornada no mundo da tecnologia.
 
     🛠️ Minha Jornada Profissional:
-    Ao longo dos anos, tenho trilhado uma carreira desafiadora como desenvolvedor front-end, contribuindo para diversos projetos que demandaram soluções inovadoras. Minha expertise abrange habilidades sólidas em HTML, CSS, JavaScript, e frameworks como React. Além disso, tenho conhecimento em bancos de dados e integração de APIs, proporcionando experiências interativas e eficientes.
+    Ao longo dos anos, tenho trilhado uma carreira desafiadora como desenvolvedor front-end, contribuindo para diversos projetos que demandaram soluções inovadoras. Minha expertise abrange habilidades sólidas em HTML, CSS, JavaScript, e frameworks como React. 
+    Além disso, tenho conhecimento em bancos de dados e integração de APIs, proporcionando experiências interativas e eficientes.
 
     🎓 Formação Acadêmica:
-    Orgulhosamente graduado pelo IF Goiano, adquiri conhecimentos fundamentais que serviram como alicerce para minha trajetória profissional. A formação sólida proporcionada pela instituição contribuiu significativamente para o meu crescimento como desenvolvedor.
+    Orgulhosamente graduado pelo IF Goiano, adquiri conhecimentos fundamentais que serviram como alicerce para minha trajetória profissional. 
+    A formação sólida proporcionada pela instituição contribuiu significativamente para o meu crescimento como desenvolvedor.
 
     🚀 Em Busca de Inovação:
-    Atualmente, estou imerso em desafios mais avançados, buscando aprimorar minhas habilidades e explorando o fascinante mundo da Inteligência Artificial. Através de cursos dedicados, estou adquirindo conhecimento para integrar IA em projetos futuros, elevando ainda mais a qualidade das soluções que desenvolvo.`,
+    Atualmente, estou imerso em desafios mais avançados, buscando aprimorar minhas habilidades e explorando o fascinante mundo da Inteligência Artificial. 
+    Através de cursos dedicados, estou adquirindo conhecimento para integrar IA em projetos futuros, elevando ainda mais a qualidade das soluções que desenvolvo.`,
   },
   skills: {
     languages: [
@@ -121,18 +125,19 @@ export default {
 <h1 align="center">
   Estatísticas 📈
 </h1>
-
 <div align="center">
-  <h3>Top Linguagens</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VncsRaniery&theme=dark&layout=compact&hide_border=true&card_width=494px" alt="Top Languages">
-  
-  <h3>GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=VncsRaniery&show_icons=true&theme=dark&hide_border=true&count_private=true&card_width=494px" alt="GitHub Stats of VncsRaniery">
-  
-  <h3>GitHub Streak</h3>
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=VncsRaniery&theme=dark&hide_border=true&border_radius=5"
-    alt="VncsRaniery">
+<h3>GitHub Stats</h3>
+
+![Vinicius Raniery's GitHub stats](https://github-readme-stats.vercel.app/api?username=VncsRaniery&show_icons=true&theme=dark&hide_border=true&count_private=true&card_width=494px)
+
+<h3>GitHub Streak</h3>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VncsRaniery&theme=dark&hide_border=true&border_radius=5)
+
+<h3>Top Linguagens</h3>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VncsRaniery&layout=compact&show_icons=true&theme=dark&hide_border=true&card_width=494px)
+
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=505050&height=120&section=footer"/>
