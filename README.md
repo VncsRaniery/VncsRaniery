@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=505050&height=120&section=header"/>
 
 <h1 align="center">
-  Olá mundo 👋
+  Hello World 👋
 </h1>
 
 <div align="center">
@@ -18,33 +18,20 @@
 export default {
   name: 'Vinícius Raniery Pereira',
   from: 'Arraias, TO, Brasil',
-  profession: 'Desenvolvedor Web Full Stack',
+  profession: 'Desenvolvedor Backend',
   hobbies: ['Ouvir músicas', 'Leitura', 'Games'],
-  email: ['viniciusraniery@outlook.com', 'contactviniciusr@gmail.com'],
+  email: ['viniciusraniery@outlook.com'],
   linkedin: 'https://www.linkedin.com/in/viniciusraniey/',
   portfolio: 'Ainda em andamento',
   contato: '(63) 99132-6323',
   description: {
-    myProfile: `Olá, sou Vinícius Raniery, um entusiasta por programação web e entusiasta de experiência do usuário. 
-    Graduado pelo IF Goiano, construí uma base sólida para minha jornada no mundo da tecnologia.
-
-    🛠️ Minha Jornada Profissional:
-    Ao longo dos anos, tenho trilhado uma carreira desafiadora como desenvolvedor front-end, contribuindo para diversos projetos
-    que demandaram soluções inovadoras. Minha expertise abrange habilidades sólidas em HTML, CSS, JavaScript, e frameworks como React. 
-    Além disso, tenho conhecimento em bancos de dados e integração de APIs, proporcionando experiências interativas e eficientes.
-
-    🎓 Formação Acadêmica:
-    Orgulhosamente graduado pelo IF Goiano, adquiri conhecimentos fundamentais que serviram como alicerce para minha trajetória profissional. 
-    A formação sólida proporcionada pela instituição contribuiu significativamente para o meu crescimento como desenvolvedor.
-
-    🚀 Em Busca de Inovação:
-    Atualmente, estou imerso em desafios mais avançados, buscando aprimorar minhas habilidades e explorando o fascinante mundo da Inteligência
-    Artificial. Através de cursos dedicados, estou adquirindo conhecimento para integrar IA em projetos futuros, elevando ainda mais
-    a qualidade das soluções que desenvolvo.`,
+    Olá, me chamo Vinícius Raniery e sou desenvolvedor de software backend com menos de 1 ano de experiência na área.
+    Me considero um profissional estudioso, dedicado e disposto a encarar qualquer desafio em busca de crescimento,
+    priorizando sempre agregar a equipe com soluções ágeis e eficazes.
   },
   skills: {
     languages: [
-      'Javascript', 'React',
+      'Python', 'Java',
     ],
     backend: [
       'Node.js', 'MySQL', 'MongoDB',
