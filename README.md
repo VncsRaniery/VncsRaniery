@@ -25,9 +25,20 @@ export default {
   portfolio: 'Ainda em andamento',
   contato: '(63) 99132-6323',
   description: {
-    Olá, me chamo Vinícius Raniery e sou desenvolvedor de software backend com menos de 1 ano de experiência na área.
-    Me considero um profissional estudioso, dedicado e disposto a encarar qualquer desafio em busca de crescimento,
-    priorizando sempre agregar a equipe com soluções ágeis e eficazes.
+    `
+    Olá, me chamo Vinícius Raniery e sou desenvolvedor de software backend com menos de 1 ano de experiência na área. Me considero um profissional estudioso, dedicado e disposto a encarar qualquer desafio em busca de 
+    crescimento, priorizando sempre agregar a equipe com soluções ágeis e eficazes.
+
+    Atualmente estou focado somente em backend e trabalho com as seguintes tecnologias:
+
+    — Python
+    — SQL, Banco de dados relacionais (MySql e SQLServer) e não relacionáveis (MongoDB)
+    — Noções de microsserviços, design patterns, DDD e Clean Code (SOLID, DRY), docker, kubernetes
+    — Utlização de cloud (AWS) e seus serviços principais: S3, ECS, EC2, lambda, SQS, SNS, entre outros
+    — Noções básicas de react.js, HTML, CSS e JS (para o Frontend).
+
+    Possuo inglês intermediário, possuindo capacidade de realizar conversas.
+    `
   },
   skills: {
     languages: [
@@ -95,16 +106,13 @@ export default {
 </h1>
 
 <div align="center" style="display: inline_block"><br>
-        <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-        <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-        <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+        <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+        <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
         <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
         <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-        <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+        <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <img align="center" alt="Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
         <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-        <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-        <img align="center" alt="Next.Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
         <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
         <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     </div>
