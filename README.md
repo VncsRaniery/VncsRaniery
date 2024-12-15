@@ -11,7 +11,7 @@ Sou um profissional dedicado, estudioso e sempre pronto para enfrentar novos des
 Dê uma olhada em alguns dos meus projetos notáveis:
 
 - [FinanSys](https://finansys-app.vercel.app): Gerencie e planeje suas finanças de forma simples. Tenha total controle sobre seus gastos e descubra para onde vai seu dinheiro no fim do mês. Uma plataforma completa que ajuda no controle financeiro e no planejamento mensal.
-- [EventSync](https://app-reserva-de-eventos.vercel.app): Conecte-se, compartilhe e mostre seus eventos em nossa plataforma. Aqui você pode agendar ingressos, divulgar suas experiências e explorar eventos incríveis.
+- [EventSync](https://eventsync-plataform.vercel.app/): Conecte-se, compartilhe e mostre seus eventos em nossa plataforma. Aqui você pode agendar ingressos, divulgar suas experiências e explorar eventos incríveis.
 
 ## Skills
 
